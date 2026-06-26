@@ -8,7 +8,7 @@ let appProducts = [];
 let appTxns = [];
 let currentFilteredProducts = null;
 let currentFilteredTxns = null;
-const API_URL = "http://localhost:3000/api";
+const API_URL = "https://bhandol-hardware-system.onrender.com/api";
 
 // ===== CATEGORY COLOR SYSTEM =====
 const CATEGORY_COLORS = [
